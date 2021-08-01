@@ -1,0 +1,20 @@
+{
+"people":[
+{
+    "name":"Lavish",
+    "occupation":"Full Stack Developer",
+    "age":26,
+    "country":"India"
+},
+
+{
+    "name":"Kushal",
+    "occupation":"SSE",
+    "age":32,
+    "country":"India"
+}
+
+
+
+]
+}
